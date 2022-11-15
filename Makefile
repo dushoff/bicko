@@ -6,8 +6,11 @@ Ignore = target.mk
 
 # -include makestuff/perl.def
 
-vim_session:
-	bash -cl "vmt"
+vim_session: 
+	bash -cl "vmt screens.list"
+
+screen_session: screens.update
+	$(MAKE) $(vscreens)
 
 ######################################################################
 
@@ -26,7 +29,9 @@ makestuff/%.stamp:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+-include makestuff/listdir.mk
+-include makestuff/screendir.mk
+-include makestuff/mkfiles.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
