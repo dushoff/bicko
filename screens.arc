@@ -7,7 +7,8 @@ XX. proview: https://github.com/CYGUBICKO/proview.git ../research/proview
 XX. proview/manuscript:
 
 XX. effects: https://github.com/mac-theobio/effects.git ../research/effects
-XX. effects/manuscript: 
+XX. effects/paper: 
+effects/manuscript: ## Chapter version
 
 XX. wash: https://github.com/CYGUBICKO/hh-refactor.git ../research/rehouse
 XX. wash/simulation
