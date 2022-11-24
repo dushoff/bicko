@@ -8,13 +8,15 @@ XX. proview/manuscript:
 
 XX. effects: https://github.com/mac-theobio/effects.git ../research/effects
 XX. effects/paper: 
-effects/manuscript: ## Chapter version
+XX. effects/varpred: 
+effects/manuscript: ## Thesis chapter version
 
 XX. wash: https://github.com/CYGUBICKO/hh-refactor.git ../research/rehouse
 XX. wash/simulation
 XX. wash/manuscript
 
-XX. varpred: https://github.com/CYGUBICKO/varpred.git ../research/varpred
+## Older copy; use the one inside effects
+varpred: https://github.com/CYGUBICKO/varpred.git ../research/varpred
 
 ############# Previous Bicko
 
