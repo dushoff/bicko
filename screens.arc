@@ -9,11 +9,11 @@ XX. proview/manuscript:
 XX. effects: https://github.com/mac-theobio/effects.git ../research/effects
 XX. effects/paper: 
 XX. effects/varpred: 
-effects/manuscript: ## Thesis chapter version
+XX. effects/manuscript: ## Thesis chapter version
 
-XX. wash: https://github.com/CYGUBICKO/hh-refactor.git ../research/rehouse
-XX. wash/simulation
-XX. wash/manuscript
+wash: https://github.com/CYGUBICKO/hh-refactor.git ../research/rehouse
+wash/simulation
+wash/manuscript
 
 ## Older copy; use the one inside effects
 varpred: https://github.com/CYGUBICKO/varpred.git ../research/varpred
