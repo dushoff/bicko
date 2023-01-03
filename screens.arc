@@ -1,6 +1,6 @@
 bicko: https://github.com/CYGUBICKO/thesis.git
 
-XX. pcoxtime: https://github.com/CYGUBICKO/rcoxtime.git ../oldbicko/pcoxtime
+XX. pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git ../oldbicko/pcoxtime
 pcoxtime/jss-article-tex:
 
 XX. proview: https://github.com/CYGUBICKO/proview.git ../research/proview
