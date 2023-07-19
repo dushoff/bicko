@@ -1,23 +1,27 @@
 bicko: https://github.com/CYGUBICKO/thesis.git
 
-XX. pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git ../oldbicko/pcoxtime
+## Obsolete 2023 Jul 19 (Wed)
+pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
 pcoxtime/jss-article-tex:
 
-XX. effects: https://github.com/mac-theobio/effects.git ../oldbicko/effects
+XX. pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git
+XX. pcms:  https://github.com/CYGUBICKO/pcoxtime-ms.git
+
+XX. effects: https://github.com/mac-theobio/effects.git 
 XX. effects/paper: 
 XX. effects/varpred: 
 XX. effects/manuscript: ## Thesis chapter version
 
-wash: https://github.com/CYGUBICKO/hh-refactor.git ../oldbicko/rehouse
+wash: https://github.com/CYGUBICKO/hh-refactor.git 
 wash/simulation
 wash/manuscript
 
 ## Published
-proview: https://github.com/CYGUBICKO/proview.git ../oldbicko/proview
+proview: https://github.com/CYGUBICKO/proview.git 
 proview/manuscript:
 
 ## Outdated copy; use the one inside effects
-varpred: https://github.com/CYGUBICKO/varpred.git ../oldbicko/varpred
+varpred: https://github.com/CYGUBICKO/varpred.git 
 
 ############# Previous Bicko
 
