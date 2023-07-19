@@ -5,7 +5,7 @@ pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
 pcoxtime/jss-article-tex:
 
 XX. pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git
-XX. pcms:  https://github.com/CYGUBICKO/pcoxtime-ms.git
+## 1. pcms:  https://github.com/CYGUBICKO/pcoxtime-ms.git
 
 XX. effects: https://github.com/mac-theobio/effects.git 
 XX. effects/paper: 
