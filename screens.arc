@@ -4,7 +4,7 @@ bicko: https://github.com/CYGUBICKO/thesis.git
 pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
 pcoxtime/jss-article-tex:
 
-## 1. pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git
+pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git
 ## 1. pcms:  https://github.com/CYGUBICKO/pcoxtime-ms.git
 
 XX. effects: https://github.com/mac-theobio/effects.git 
