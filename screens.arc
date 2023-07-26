@@ -9,7 +9,7 @@ pcoxtime
 pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
 pcoxtime/jss-article-tex:
 
-XX. pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git
+XX. pcpkg:  https://github.com/CYGUBICKO/pcoxtime-pkg.git ## NOALL
 XX. pcms:  https://github.com/CYGUBICKO/pcoxtime-ms.git
 
 ######################################################################
